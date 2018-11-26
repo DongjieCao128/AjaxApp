@@ -1,0 +1,18 @@
+#container {
+    height: 100%
+}
+
+.card {
+    display: inline-block;
+}
+
+.map{
+    z-index: 20001;
+    overflow: hidden;
+    position: initial;
+}
+
+html, body {
+    background-color: sandybrown;
+    height:100%;
+}
